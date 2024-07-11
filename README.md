@@ -2,6 +2,8 @@
 
 Este projeto implementa um algoritmo para calcular a pontuação de um jogo de boliche, além de explorar a tecnologia de embedding para integração e execução de código em uma plataforma externa.
 
+Implementação: https://lksferreira.github.io/bolicheAtos
+
 ## Descrição do Algoritmo
 
 O jogo de boliche consiste em 10 frames, onde cada frame pode resultar em um strike, spare ou open frame:
