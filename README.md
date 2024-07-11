@@ -1,4 +1,3 @@
-Vamos criar um README completo e didático para o seu projeto, abordando o algoritmo para calcular a pontuação de um jogo de boliche e discutindo os pontos de atenção sobre o uso de tecnologia de embedding para execução de código.
 # Jogo de Boliche: Calculadora de Pontuação
 
 Este projeto implementa um algoritmo para calcular a pontuação de um jogo de boliche, além de explorar a tecnologia de embedding para integração e execução de código em uma plataforma externa.
